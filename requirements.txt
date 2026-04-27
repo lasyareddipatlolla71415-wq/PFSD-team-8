@@ -1,0 +1,11 @@
+flask
+requests
+google-generativeai
+pymongo
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+python-dotenv
